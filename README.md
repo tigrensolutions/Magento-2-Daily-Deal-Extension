@@ -5,7 +5,7 @@ Therefore, most online stores nowadays are trying to incorporate the concept of 
 
 ![how-it-works-magento-daily-deal](https://user-images.githubusercontent.com/26241389/162354116-641e9781-e0ec-4365-b3d3-67a15a156013.png)
 
-<span style="font-size: 14px; font-weight: normal;">As the result, the <b>Magento 2 Daily Deal Extension</b> might bring about plenty of benefits for both the store owners (get more sales) and the customers (buy cheaper products). Let's see how it can help!</span>
+<span style="font-size: 14px; font-weight: normal;">As the result, the <b><a href="https://www.tigren.com/magento-2-extensions" rel="nofollow">Magento 2 Daily Deal Extension</a></b> might bring about plenty of benefits for both the store owners (get more sales) and the customers (buy cheaper products). Let's see how it can help!</span>
 <p style="text-align: center;"><span style="font-size: medium; font-style: italic; color: #ff0000;"><strong>FOR CUSTOMERS</strong></span></p>
 
 <h2><span style="font-size: medium; color: #000080;"><strong>Be attracted by hot deals every day</strong></span></h2>
